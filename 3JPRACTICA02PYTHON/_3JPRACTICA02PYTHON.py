@@ -1,5 +1,5 @@
-#PRACTICA 02
-#Eduardo Velazquez
+#PRACTICA02
+#EduardoVelazquez
 
 NUM = 8
 NUMS=[0]*NUM
